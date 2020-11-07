@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb9489fa-7b82-4b0d-91a2-19b4bbeb0fe5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jouzgfxzSudpWOCJ1iOYMT2hv9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="clock.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/clock.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.clock.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9489fa-7b82-4b0d-91a2-19b4bbeb0fe5" name="Default Changelist" comment="" />
+      <created>1604483030014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604483030014</updated>
+      <workItem from="1604483031197" duration="118000" />
+      <workItem from="1604483163126" duration="2535000" />
+      <workItem from="1604546497155" duration="141000" />
+      <workItem from="1604740779429" duration="5117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#File_Watchers" timestamp="1604485860009">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#File_Watchers/0.23.1440.877@0.23.1440.877" timestamp="1604485860009" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604484560675">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604484560675" />
+    <state x="370" y="246" width="698" height="653" key="EditFileWatcherDialog" timestamp="1604485618244">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="370" y="246" width="698" height="653" key="EditFileWatcherDialog/0.23.1440.877@0.23.1440.877" timestamp="1604485618244" />
+    <state x="474" y="251" key="EnvironmentVariablesDialog" timestamp="1604485605382">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="474" y="251" key="EnvironmentVariablesDialog/0.23.1440.877@0.23.1440.877" timestamp="1604485605382" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1604485894706">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604485894706" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1604485894705">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604485894705" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1604485894705">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604485894705" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1604485894706">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604485894706" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1604546634903">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604546634903" />
+    <state x="389" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604747033390">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="389" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1604747033390" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1604483624931">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1604483624931" />
+  </component>
+</project>
