@@ -1,12 +1,21 @@
 body {
   background-color: #2c3e50;
+  color: #34495e;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  font-family: Poppins, sans-serif;
+}
+
+.my{
+  text-align: center;
 }
 
 .btn {
   cursor: pointer;
-}
-body {
-  color: #34495e;
 }
 
 .clicked {
